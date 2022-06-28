@@ -182,7 +182,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start":"node index"
+    "start":"node index",
     "dev": "nodemon index"
   },
   "keywords": [],
